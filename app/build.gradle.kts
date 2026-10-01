@@ -4,11 +4,11 @@ plugins {
 }
 android {
     namespace = "com.retailshop.mini"
-    compileSdk = 35
+    compileSdk = 34
     defaultConfig {
         applicationId = "com.retailshop.mini"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
